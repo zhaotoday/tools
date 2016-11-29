@@ -8,3 +8,4 @@ https://github.com/Seldaek/slippy
 [EasyAPI](http://www.easyapi.com/)  
 [ShowDoc](http://www.showdoc.cc/)  
 [apiManager](http://git.oschina.net/zhoujingjie/apiManager)  
+[swagger](http://swagger.io/)  
