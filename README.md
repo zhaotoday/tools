@@ -5,5 +5,6 @@ https://github.com/Seldaek/slippy
 
 ## API 管理工具
 [eoapi](https://www.eoapi.cn/#/index)  
-[EasyAPI](http://www.easyapi.com/)  
+[EasyAPI](http://www.easyapi.com/)  
 [ShowDoc](http://www.showdoc.cc/)  
+[apiManager](http://git.oschina.net/zhoujingjie/apiManager)  
