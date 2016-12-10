@@ -14,3 +14,8 @@
 ## 办公工具
 - [企业微信](http://work.weixin.qq.com/)  
 - [腾讯企业邮箱](https://exmail.qq.com/)
+
+## 站长工具
+- [百度云观测](https://ce.baidu.com/)
+- [百度云 - 云监控](https://bce.baidu.com/product/bcm.html)
+- [阿里云 - 云监控](https://www.aliyun.com/product/jiankong/)
